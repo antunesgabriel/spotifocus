@@ -1,9 +1,11 @@
 module.exports = {
   brand: {
-    main: "#EF4983",
-    gray: "#F9F9F9",
+    main: "#57B65F",
+    maindark: "#105730",
+    grey: "#B3B3B3",
     info: "#8296FB",
-    graydark: "#C0BCB0",
+    darkgrey: "#282828",
+    darkest: "#121212",
     warning: "#E4B52E",
     danger: "#F88676",
   },

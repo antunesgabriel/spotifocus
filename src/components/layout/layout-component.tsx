@@ -19,7 +19,7 @@ const LayoutComponent = ({
       <title data-testid="page-title">{title}</title>
     </Head>
 
-    <main className="h-full">{children}</main>
+    <main className="h-full bg-black">{children}</main>
   </>
 );
 
