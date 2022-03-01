@@ -11,7 +11,7 @@ const WorkspacePage = () => {
   };
 
   return (
-    <LayoutComponent title="Home">
+    <LayoutComponent title="Worspace" isPrivate>
       <div className="h-full flex justify-center items-center flex-col">
         <Progress percentage={progress} color="#57B65F" text="25:00" />
 

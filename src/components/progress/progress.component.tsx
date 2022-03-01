@@ -39,8 +39,6 @@ const Circle: React.FC<{ color: string; pct: number }> = ({ color, pct }) => {
   const circ = 2 * Math.PI * r;
   const strokePct = ((100 - pct) * circ) / 100;
 
-  console.log("--->", r, circ, strokePct);
-
   return (
     <circle
       r={r}
