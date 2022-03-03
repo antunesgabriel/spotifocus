@@ -30,7 +30,7 @@ const UnautoriedMessage = () => {
         Para ver esta pagina é preciso estar conectado a uma conta spotify.
       </p>
 
-      <p className="font-normal text-gray-500 mb-3">
+      <p className="font-normal text-gray-500 mb-5">
         Conecte Sua conta para continuar.
       </p>
 
